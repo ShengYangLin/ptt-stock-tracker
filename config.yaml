@@ -1,0 +1,28 @@
+pttStockUrl: https://www.ptt.cc/bbs/Stock/index.html
+keyTransform:
+      推文: push
+      網址: url
+      作者: author
+      標題: title
+      時間: time
+celebrityList:
+      [
+            fukku100,
+            a000000000,
+            f204137,
+            bear410040, 
+            phcebus,
+            test520,
+            zesonpso,
+            tradow,
+            robertshih,
+            leondemon,
+            Capufish,
+            Djuda,
+            book1999,
+            YU1225,
+            waitrop,
+            MoonCode
+      ]
+checkPageNum: 5
+requestInterval: 5
