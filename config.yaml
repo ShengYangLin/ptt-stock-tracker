@@ -21,7 +21,8 @@ celebrityList:
             book1999,
             YU1225,
             waitrop,
-            MoonCode
+            MoonCode,
+            a0808996,
       ]
-checkPageNum: 5
+checkPageNum: 2
 requestInterval: 5
